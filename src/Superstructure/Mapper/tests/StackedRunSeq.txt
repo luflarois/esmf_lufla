@@ -1,8 +1,0 @@
-# Run sequence
-runSeq::
-  @1800.0
-    ATM
-    OCN
-    ICE
-  @
-::
